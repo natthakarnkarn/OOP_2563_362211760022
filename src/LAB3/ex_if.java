@@ -3,7 +3,7 @@ package LAB3;
 public class ex_if {
     public static void main(String[] args) {
 
-        int x = 20, y = 20;
+        int x = 10, y = 20;
         if (x==y){
             System.out.println("True");
         }else {
