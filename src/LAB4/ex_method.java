@@ -3,6 +3,7 @@ package LAB4;
 public class ex_method {
 
     public static void B(int num) {
+
         System.out.println("Hello B"+num);
 
     }
