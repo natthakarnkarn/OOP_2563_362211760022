@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e04ba98c-3042-4dbb-8b62-c89c7e25763e" name="Default Changelist" comment="LAB3 4">
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_check_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
+    <list default="true" id="e04ba98c-3042-4dbb-8b62-c89c7e25763e" name="Default Changelist" comment="LAB3 4 5">
+      <change afterPath="$PROJECT_DIR$/src/LAB5/exercise_lab5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_string1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_stringToken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LAB4/ex_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB4/ex_method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610270753752</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="LAB3 4 5">
+      <created>1610427881783</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610427881783</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +187,7 @@
     <MESSAGE value="UPDATE" />
     <MESSAGE value="LAB3" />
     <MESSAGE value="LAB3 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAB3 4" />
+    <MESSAGE value="LAB3 4 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB3 4 5" />
   </component>
 </project>
