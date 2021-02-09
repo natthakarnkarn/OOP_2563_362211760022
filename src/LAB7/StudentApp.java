@@ -8,6 +8,7 @@ public class StudentApp {
         std1.name = "KARN NATTHA";
         std1.age = 21;
         std1.major = "MIT";
+
         std1.introduce();
 
         Student std2 = new Student();
@@ -20,6 +21,7 @@ public class StudentApp {
         std2.introduce();
 
         std1.changeFaculty("Engineer RUTS");
+
         std1.introduce();
         std2.introduce();
 
