@@ -31,4 +31,15 @@ public class car {
     public void setBrand(String brand) {
         this.brand = brand;
     }
-}
+
+    @Override
+    public String toString() {
+        return "car{" +
+                "id='" + id + '\'' +
+                ", coluor='" + coluor + '\'' +
+                ", brand='" + brand + '\'' +
+                '}';
+    }
+
+
+    }
