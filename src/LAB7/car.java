@@ -1,12 +1,19 @@
 package LAB7;
 
 public class car {
-
-
+    //attributes
     private String id;
-    private String coluor;
+    private String color;
     private String brand;
+    //constructors
+    public car() {
+    }
 
+    public car(String id, String color, String brand) {
+        this.id = id;
+        this.color = color;
+        this.brand = brand;
+    }
 
     public String getId() {
         return id;
@@ -16,12 +23,12 @@ public class car {
         this.id = id;
     }
 
-    public String getColuor() {
-        return coluor;
+    public String getColor() {
+        return color;
     }
 
-    public void setColuor(String coluor) {
-        this.coluor = coluor;
+    public void setColor(String color) {
+        this.color = color;
     }
 
     public String getBrand() {
@@ -34,12 +41,10 @@ public class car {
 
     @Override
     public String toString() {
-        return "car{" +
+        return "Car{" +
                 "id='" + id + '\'' +
-                ", coluor='" + coluor + '\'' +
+                ", color='" + color + '\'' +
                 ", brand='" + brand + '\'' +
                 '}';
     }
-
-
-    }
+}//class
